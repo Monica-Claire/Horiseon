@@ -11,4 +11,6 @@ Then, I added a title of Horiseon to the page and comments to my code to make it
 
 Finally, I condensed the CSS code to reduce redundancy. 
 
-![image](https://user-images.githubusercontent.com/101716508/162578827-9fc64b00-a83a-4097-8999-3d0491ee7f43.png)
+Here is the link to my site: https://monica-claire.github.io/Horiseon/
+
+![chrome_iq2XABhw8c](https://user-images.githubusercontent.com/101716508/162595835-c65029d8-70b9-45c2-8418-0171debf91bc.jpg)
